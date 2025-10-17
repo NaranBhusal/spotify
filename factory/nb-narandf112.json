@@ -1,0 +1,9 @@
+{
+	"name": "nb-narandf112",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ff57b325-64c0-471e-b553-823471baca78",
+		"tenantId": "ac2eb5f2-9775-4a56-82ad-081b6b5d0c89"
+	}
+}
